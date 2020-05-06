@@ -1,0 +1,391 @@
+#container{
+	width: auto;
+	height:auto;
+}
+#header{
+	//border: 12px solid grey;
+			width: auto;
+			height: 40px;
+			background-color: royalblue;
+			display: flex;
+			flex-direction: row;
+			justify-content: space-around;
+}
+#img{
+	margin: 10px 5px 10px 120px;
+	
+}
+img{
+	margin-bottom: 10px;
+	margin-left: 10px;
+}
+button{
+	height: 30px;
+	margin-top: 7px;
+	color: grey;
+}
+.two{
+	
+	margin-top: 10px;
+}
+#nav{
+           // border: 12px solid grey;
+			width: auto;
+			height: 70px;
+			background-color: white;
+			display: flex;
+			flex-direction: row;
+			justify-content: space-around;
+}
+#b1{
+	color: black;
+	 border-radius: 20px;
+	// background-color: royalblue;
+	 width: 70px;
+	 position: relative;
+	 top:10px;
+
+}
+
+#b1:hover{
+	background-color:royalblue;
+	color: white;
+	
+}
+#b2:hover{
+	background-color:royalblue;
+	color: white;
+}
+
+#h3{
+	color: white;
+	position: relative;
+	bottom: 10px;
+}
+.main{
+	//border: 12px solid grey;
+	width: auto;
+	height: 330px;
+}
+
+#line{
+	//border: 12px solid grey;
+	height: 25px;
+	text-align: center;
+	background-color: white;
+	position: relative;
+	bottom: 5px;
+}
+#marquee{
+	background-color: royalblue;
+	opacity: 0.5px;
+	color: white;
+
+}
+
+#b2{
+	color: black;
+	 border-radius: 20px;
+	// background-color: royalblue;
+	 width: 120px;
+	 position: relative;
+	 top:10px;
+     
+}
+#intro{
+	//border: 12px solid grey;
+	width: 1100px;
+	height: 700px;
+	text-align: center;
+font-size: larger;
+font-family: 'Times New Roman';
+color: grey;
+}
+p{
+	text-align: center;
+}
+#num{
+	//border: 12px solid grey;
+	width: auto;
+	height: 330px;
+	background-color: royalblue;
+	color: white;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+
+}
+#box1{
+	font-size: larger;
+	font-family: 'Georgia';
+	position: relative;
+	top: 50px;
+}
+#div1{
+	border: 1px solid whitesmoke;
+	width: 350px;
+	height: 170px;
+	background-color: white;
+	color: royalblue;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	font-family:  'impact';
+	position: relative;
+	left: 20px;
+	bottom: 5px;
+	box-shadow: 5px 5px 5px 5px lightslategray; 
+
+}
+#div2{
+	border: 1px solid whitesmoke;
+	width: 350px;
+	height: 170px;
+	background-color: white;
+	color: royalblue;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	font-family:  'impact';
+	position: relative;
+	left: 400px;
+	bottom: 177px;
+	box-shadow: 5px 5px 5px 5px lightslategray; 
+}
+#div3{
+	border: 1px solid whitesmoke;
+	width: 350px;
+	height: 170px;
+	background-color: white;
+	color: royalblue;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	font-family:  'impact';
+	position: relative;
+	left: 780px;
+	bottom: 349px;
+	box-shadow: 5px 5px 5px 5px lightslategray; 
+}
+#div4{
+	border: 1px solid whitesmoke;
+	width: 350px;
+	height: 170px;
+	background-color: white;
+	color: royalblue;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	font-family:  'impact';
+	position: relative;
+	left: 20px;
+	bottom: 325px;
+	box-shadow: 5px 5px 5px 5px lightslategray; 
+}
+#div5{
+	border: 1px solid whitesmoke;
+	width: 350px;
+	height: 170px;
+	background-color: white;
+	color: royalblue;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	font-family:  'impact';
+	position: relative;
+	left: 400px;
+	bottom: 497px;
+	box-shadow: 5px 5px 5px 5px lightslategray; 
+}
+
+#div6{
+	border: 1px solid whitesmoke;
+	width: 350px;
+	height: 170px;
+	background-color: white;
+	color: royalblue;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	font-family:  'impact';
+	position: relative;
+	left: 780px;
+	bottom: 670px;
+	box-shadow: 5px 5px 5px 5px lightslategray; 
+ 
+}
+.events{
+	border: 0px solid grey;
+	width: auto;
+	height: 800px;
+	background-color: white;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	font-family: 'Times New Roman' ;
+	color: royalblue;
+
+}
+#div7{
+	border: 0px solid lightslategray;
+	width: 400px;
+	height: 80px;
+	background-color: whitesmoke;
+	position: relative;
+	right: 790px;
+	top: 80px;
+	font-family: 'monospace';
+	font-weight: bold;
+	position: relative;
+	top: 150px;
+	right: 870px;
+	
+}
+#heading{
+	position: relative;
+	right: 160px;
+	top: 40px;
+	font-family: 'monospace';
+
+}
+#h{
+	position: relative;
+	bottom: 60px;
+	left: 100px;
+	
+}
+#div8{
+	border: 0px solid lightslategray;
+	width: 400px;
+	height: 80px;
+	background-color: whitesmoke;
+	//position: relative;
+	//right: 790px;
+	//top: 80px;
+	font-family: 'monospace';
+	font-weight: bold;
+	position : relative;
+    bottom:660px;
+    left: 450px;	
+}
+#HS{
+	color: royalblue;
+	position: relative;
+	left: 90px;
+	bottom: 50px;
+}
+#pic{
+	position: relative;
+	top: 10px;
+}
+
+#div9{
+	border: 0px solid lightslategray;
+	width: 400px;
+	height: 80px;
+	background-color: whitesmoke;
+	//position: relative;
+	//right: 790px;
+	//top: 80px;
+	font-family: 'monospace';
+	font-weight: bold;
+	position: relative;
+	bottom: 630px;	
+	left: 20px;
+}
+#IT{
+	color: royalblue;
+	position: relative;
+	left: 90px;
+	bottom: 50px;
+}
+#div10{
+	border: 0px solid lightslategray;
+	width: 400px;
+	height: 80px;
+	background-color: whitesmoke;
+	font-family: 'monospace';
+	font-weight: bold;
+	position: relative;
+	bottom: 710px;	
+	left: 450px;
+}
+#thar{
+	color: royalblue;
+	position: relative;
+	left: 90px;
+	bottom: 50px;
+}
+#div11{
+	border: 0px solid gray;
+	width: 380px;
+	height: 400px;
+	position: relative;
+	bottom: 1020px;
+	left: 900px;
+	color: royalblue;
+	font-family: 'monospace';
+	font-size: larger;
+}
+marquee{
+	font-size: medium;
+}
+#png{
+	position: relative;
+	top: 20px;
+}
+#gallery{
+	position: relative;
+	bottom: 1050px;
+	//border: 1px solid green;
+	width: 1400px;
+	height: 500px;
+}
+#edit{
+	position: relative;
+	top: 30px;
+}
+#IG{
+	//border: 0px solid grey;
+	height: 200px;
+	width: auto;
+	position: relative;
+	bottom: 70px;
+}
+#pics{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	margin-top: 50px;
+}
+#align{
+	position: relative;
+	bottom: 30px;
+}
+#position{
+	position: relative;
+	bottom: 40px;
+}
+#footer{
+	border: 3px solid grey;
+	height: 400px;
+	width: auto;
+	position: relative;
+	bottom: 1090px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	background-color: grey;
+	color: white;
+}
+#cont{
+	border: 1px solid black;
+	width: 400px;
+	height: 300px;
+	position: relative;
+	right: 500px;
+	top: 50px;
+	font-size: medium;
+	margin-right; 60px;
+	padding: 10px 10px 10px 10px;
+}
