@@ -366,8 +366,9 @@ marquee{
 	position: relative;
 	bottom: 40px;
 }
+
 #footer{
-	border: 3px solid grey;
+	//border: 3px solid grey;
 	height: 400px;
 	width: auto;
 	position: relative;
@@ -375,17 +376,92 @@ marquee{
 	display: flex;
 	flex-direction: row;
 	justify-content: space-around;
-	background-color: grey;
+	background-color: black;
+	opacity: 0.9;
 	color: white;
 }
-#cont{
-	border: 1px solid black;
+#head{
+	position: relative;
+   right: 450px;
+	top: 50px;
+	text-align: left;
+	//margin-left: 20px;
+	//margin-top: 20px;
+	font-size: 15px;
+}
+#head2{
+	position: relative;
+   right: 450px;
+	top: 40px;
+	text-align: left;
+	//margin-left: 20px;
+	//margin-top: 20px;
+	font-size: 15px;
+
+}
+#img3{
+position: relative;
+top: 10px;
+}
+#head3{
+	position: relative;
+	right: 450px;
+	 top: 30px;
+	 text-align: left;
+	 font-size: 15px;
+}
+#head4{
+	position: relative;
+	right: 450px;
+	 top: 20px;
+	 text-align: left;
+	 font-size: 15px;
+}
+#head5{
+	position: relative;
+	right: 450px;
+	 top: 10px;
+	 text-align: left;
+	 font-size: 15px;
+}
+#useful
+{
+	//border: 2px solid greenyellow;
 	width: 400px;
 	height: 300px;
+	 position: relative;
+	 bottom: 250px;
+	 right: 40px;
+	 font-family: 'cursive';
+	 font-weight: bold;
+}
+#connect{
+	//border: 3px solid goldenrod;
+	width: 400px;
+	height: 200px;
 	position: relative;
-	right: 500px;
-	top: 50px;
-	font-size: medium;
-	margin-right; 60px;
-	padding: 10px 10px 10px 10px;
+	bottom: 550px;
+	left: 350px;
+	font-size: larger;
+	font-family: 'cursive';
+	font-weight: bold;
+}
+#end{
+	//border: 3px solid grey;
+	width: auto;
+	height: 50px;
+	position: relative;
+	bottom: 1130px;
+	background-color: royalblue;
+	color: white;
+	
+}
+#copyright{
+	position: relative;
+	right: 550px;
+	top: 10px;
+}
+#img4{
+position: relative;
+right: 120px;
 }
